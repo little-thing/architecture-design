@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2024-07-22T03:52:57.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="nT2yTqdSVqG0KL15tor-" version="24.6.4" type="device">
+  <diagram name="第 1 页" id="srf7vNwyu2cZwSCrjBKo">
+    <mxGraphModel dx="1114" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3" value="服务" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;resizable=0;containerType=tree;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w48xXhKB9famFuxTFfYR-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3">
+          <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w48xXhKB9famFuxTFfYR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w48xXhKB9famFuxTFfYR-5" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w48xXhKB9famFuxTFfYR-5" value="接口" style="swimlane;startSize=20;horizontal=0;childLayout=treeLayout;horizontalTree=1;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w48xXhKB9famFuxTFfYR-4" value="mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="w48xXhKB9famFuxTFfYR-5">
+          <mxGeometry x="36" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="w48xXhKB9famFuxTFfYR-5" vertex="1">
+          <mxGeometry x="166" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
